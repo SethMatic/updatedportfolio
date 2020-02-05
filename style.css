@@ -1,0 +1,31 @@
+
+.jumbotron {
+  background:rgb(133, 120, 120);
+  justify-content: center;
+  color: #F8F8F8;
+  margin: 25px 100px 100px 75px;
+}
+.row {
+  justify-content: center;
+  padding: 25px;
+  margin: 50px auto;
+  color: #F8F8F8;
+} 
+h2 {
+  padding-top: 0px;
+  padding-left: 25px;
+}
+p {
+  padding-left: 25px;
+} 
+#repos {
+  margin: 50px;
+}
+
+img:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=50); 
+}
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5);
+}
