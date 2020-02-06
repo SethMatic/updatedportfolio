@@ -26,6 +26,3 @@ img:hover {
   opacity: 0.5;
   filter: alpha(opacity=50); 
 }
-.carousel-caption {
-  background: rgba(0, 0, 0, 0.5);
-}
